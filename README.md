@@ -21,5 +21,5 @@ This criterion is linked to a Learning OutcomeStorytelling and Conclusion
 What insights did you gain through your project? Were you able to answer your initial problems? Obtain your initial goal? What stories can you tell? Do you have future steps in mind or things that could have been improved? ***For full credit here, you will need to show your critical thinking throughout.***
 What have you learned throughout this project and the entire class?
 
-#Impact
+# Impact
 Discuss the impact of your project. This can be socially, ethically, etc. It cannot be something like "our project has no impact" or "our project has no negative impact." Even the most well-intentioned projects *could* have negative impact. We will not be checking for "right" or "wrong" answers, but showing your critical thinking.
